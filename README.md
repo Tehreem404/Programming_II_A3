@@ -1,11 +1,13 @@
 # Programming_II_A3
 
 [AUTHOR]
+
     Name: Tehreem Nazar
     Student Number: 1108993
 
 
 [DESCRIPTION]
+
     Program 1 (frequency_table.c):
         Creates a frequency table based on what the user inputs
 
@@ -22,6 +24,7 @@
 
 
 [USAGE]
+
     frequency_table:
     make frequency_table
     ./frequency_table
@@ -32,6 +35,7 @@
 
 
 [FILENAMES]
+
     chi_squared.c
     create_freqt.c
     decode.c
